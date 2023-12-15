@@ -1,0 +1,9 @@
+# PyQt5 and related dependencies
+PyQt5==5.15.6
+PyQtWebEngine==5.15.6
+
+# Standard library modules
+socket
+
+# Threading module (usually comes with Python)
+threading
